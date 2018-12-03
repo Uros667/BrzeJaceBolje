@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-image: url(../img/sl.png);
+    background-size: cover;
+    background-color: #1d1d1d;
+    background-repeat: no-repeat;
+}
+.btn {
+    color: rgb(56,56,56);
+}
+.btn:hover {
+    color: rgb(87, 134, 120);
+}
+#btn3{
+    background:#A8A8A8;
+    margin: 55px;
+    padding: 20px;
+    width: 200px;
+    font-family: "Century Gothic";
+    font-size: 20px;
+}
+#btn4{
+    background:#A8A8A8;
+    margin: 55px;
+    padding: 20px;
+    width: 200px;
+    font-family: "Century Gothic";
+    font-size: 20px;
+}
